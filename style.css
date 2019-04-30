@@ -1,0 +1,36 @@
+#calculator {
+  background-color: pink;
+  color: white;
+}
+
+
+#title {
+  font-family: "Ubuntu";
+  font-size: 3rem;
+  font-weight: 700;
+  padding-top: 2rem;
+  padding-left: 3rem;
+}
+
+em {
+  padding-left: 1rem;
+  
+}
+
+
+.formulaire {
+  padding: 5rem 3rem;
+}
+
+.names {
+  text-align: center;
+  padding: 2rem;
+}
+
+.resultatCalcul {
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-size: 6rem;
+  padding: 4rem;
+
+}
